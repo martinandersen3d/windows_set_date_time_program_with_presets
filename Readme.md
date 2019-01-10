@@ -3,7 +3,7 @@ windows 10 - set date time program with custom presets, for developers debugging
 
 Features:
 - Create your own custom date presets
-- Autosave your date list
+- Autosave your date list in config.txt, same folder where you save the program.
 - "Reset" and return to your normal clock
 - When you exit the program, to clock will go back to normal
 
